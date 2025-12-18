@@ -151,6 +151,8 @@ Three revenue streams targeting **$50K in first 6 months**:
 | **[Stakeholder Presentation](docs/prd-presentation.md)** | 22-slide Swiss Style deck (no purple, non-glowy) | 15-20 min |
 | **[Full PRD](docs/prd.md)** | Complete Product Requirements Document | 1-2 hours |
 | **[Sitemap](docs/sitemap.md)** | Complete information architecture (100+ pages) | 30-45 min |
+| **[Modern Web Architecture](docs/Modern_Web_Architecture_Security,_Performance,_and_Compliance.pdf)** | Security, Performance & Compliance: Next.js vs 11ty/Alpine/Xano comparison | 20-30 min |
+| **[Sprint Backlog](docs/sprint-backlog.md)** | Current tasks, workflow & security optimization, QA/testing | 15-20 min |
 
 ### Quick Share Versions
 
